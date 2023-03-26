@@ -16,7 +16,7 @@ jsproxy_config({
     'cfworker': {
       label: 'cfworker',
       lines: {
-        'late-credit-0460.hanba0qwq.workers.dev': 1,
+        'proxy.ylang.gay': 1,
       }
     }
   },
